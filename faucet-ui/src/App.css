@@ -1,0 +1,64 @@
+body {
+  background-color: #2f3ea1;
+  background: linear-gradient(to left, #b84fa5, #6060e4);
+  color: white;
+}
+
+.title {
+  color: white;
+  margin-bottom: 1 rem;
+}
+
+.box {
+  margin-top: 50px;
+}
+
+.panel {
+  margin-top: 2em;
+}
+
+.panel-heading {
+  background: linear-gradient(to left,#b84fa5, #6060e4);
+  background-color: rgba(28, 25, 63, 0.685);
+  color: white;
+}
+
+.address-box {
+  padding: 3em;
+}
+
+.box .title {
+  color: #333;
+}
+
+.navbar {
+    background: linear-gradient(to left, #af449c, #4242e2);
+}
+
+.navbar .navbar-item {
+  color: white;
+}
+
+.connect-wallet span {
+  color: #6363f7;
+}
+
+.connect-wallet:hover {
+  background-color: #e1e1e1 !important;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.faucet-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: red;
+}
+
+.withdraw-success {
+  color: rgb(0, 255, 0);
+}
