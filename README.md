@@ -1,2 +1,2 @@
 # faucetDapp
-Just connect your wallet and SKG tokens
+Just connect your wallet and get SKG tokens
